@@ -1,0 +1,11 @@
+#date-picker-attendance::-webkit-calendar-picker-indicator {
+    padding-left: 65%;
+    /*border: 1px dashed red;*/
+    opacity: 0.9;
+  }
+
+  #date-picker-attendance2::-webkit-calendar-picker-indicator {
+    padding-left: 65%;
+    /*border: 1px dashed red;*/
+    opacity: 0.9;
+  }
